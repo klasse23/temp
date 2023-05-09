@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Verksted",
+        "color":"#4bae4b",
+        "href":"",
+        "img":"",
+        "icon":""
+    },
+    {
+        "name":"Aktivitet",
+        "color":"#f6d109",
+        "href":"",
+        "img":"",
+        "icon":""
+    },
+    {
+        "name":"Forestilling",
+        "color":"#e42085",
+        "href":"",
+        "img":"",
+        "icon":""
+    },
+    {
+        "name":"Konsert",
+        "color":"#4d4084",
+        "href":"",
+        "img":"",
+        "icon":""
+    },
+    {
+        "name":"Utstilling",
+        "color":"#65b3cc",
+        "href":"",
+        "img":"",
+        "icon":""
+    }
+]
