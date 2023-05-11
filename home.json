@@ -2,7 +2,7 @@
     {
         "name":"Verksted",
         "color":"#4bae4b",
-        "href":"",
+        "href":"https://program.stoppestedverden.no/verksted/",
         "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/EGYPT_Magedans_tmb_1280x844.png",
         "icon":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/verksted-1.svg"
     },
@@ -81,7 +81,7 @@
         "name":"Utstilling",
         "color":"#65b3cc",
         "href":"",
-        "img":"https://github.com/klasse23/temp/blob/main/placeholder_1280x844.png?raw=true",
+        "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Vastavirthaan_tmb_1280.png",
         "icon":"https://github.com/klasse23/temp/blob/main/placeholder_1280x1280.png?raw=true"
     }
 ]
