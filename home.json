@@ -11,7 +11,57 @@
         "color":"#f6d109",
         "href":"",
         "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/STORBRITANNIA_Cabez_tmb_1280.png",
-        "icon":"https://github.com/klasse23/temp/blob/main/placeholder_1280x1280.png?raw=true"
+        "icon":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/aktiviteter-1.svg",
+        "activities":[
+            {
+                "name":"African Nights",
+                "country":"Afrika",
+                "image":"",
+                "href":""
+            },
+            {
+                "name":"Søppelsafari",
+                "country":"Sirkula",
+                "image":"",
+                "href":""
+            },
+            {
+                "name":"Passtilas",
+                "country":"Fillipinene",
+                "image":"",
+                "href":""
+            },
+            {
+                "name":"Klong Yao",
+                "country":"Thailand",
+                "image":"",
+                "href":""
+            },
+            {
+                "name":"Italmalal",
+                "country":"Chile",
+                "image":"",
+                "href":""
+            },
+            {
+                "name":"Circus Raj",
+                "country":"India",
+                "image":"",
+                "href":""
+            },
+            {
+                "name":"Cabezones",
+                "country":"Storbritannia",
+                "image":"",
+                "href":""
+            },
+            {
+                "name":"Slangemennesket",
+                "country":"Norge",
+                "image":"",
+                "href":""
+            }
+        ]
     },
     {
         "name":"Forestilling",
