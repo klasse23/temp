@@ -66,29 +66,47 @@
     {
         "name":"Forestilling",
         "color":"#e42085",
-        "href":"",
+        "href":"https://program.stoppestedverden.no/forestilling/",
         "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/SPANIA_La-Caixeta_tmb_1280.png",
         "icon":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/forestilling.svg",
         "activities":[
             {
-                "name":"",
-                "country":"",
-                "img":"",
-                "href":"https://program.stoppestedverden.no//"
+                "name":"La Caixeta",
+                "country":"Spania",
+                "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/SPANIA_La-Caixeta_tmb_1280.png",
+                "href":"https://program.stoppestedverden.no/la-caixeta/"
+            },
+            {
+                "name":"Sulky M1",
+                "country":"Nederland",
+                "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NEDERLAND_Sulky_tmb_1280.png",
+                "href":"https://program.stoppestedverden.no/sulky-m1/"
+            },
+            {
+                "name":"Den lille store reisen",
+                "country":"Norge",
+                "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Den-Lille-Store-Reisen_tmb_1280.png",
+                "href":"https://program.stoppestedverden.no/den-lille-store-reisen/"
+            },
+            {
+                "name":"Fabelflakseren",
+                "country":"Norge",
+                "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Fabelflakseren_tmb_1280.png",
+                "href":"https://program.stoppestedverden.no/den-lille-store-reisen/"
             }
         ]
     },
     {
         "name":"Konsert",
         "color":"#4d4084",
-        "href":"",
+        "href":"https://program.stoppestedverden.no/konsert/",
         "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/MEXICO_Mariachi-Del-Sol_tmb_1280x844.png",
         "icon":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/konsert.svg"
     },
     {
         "name":"Utstilling",
         "color":"#65b3cc",
-        "href":"",
+        "href":"https://program.stoppestedverden.no/utstilling/",
         "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Vastavirthaan_tmb_1280.png",
         "icon":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/utstilling.svg"
     }
