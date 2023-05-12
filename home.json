@@ -46,19 +46,19 @@
             {
                 "name":"Circus Raj",
                 "country":"India",
-                "img":"",
+                "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/INDIA_CircusRaj_tmb_1280.png",
                 "href":"https://program.stoppestedverden.no/circus-raj"
             },
             {
                 "name":"Cabezones",
                 "country":"Storbritannia",
-                "img":"",
+                "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/STORBRITANNIA_Cabez_tmb_1280.png",
                 "href":"https://program.stoppestedverden.no/cabezones/"
             },
             {
                 "name":"Slangemennesket",
                 "country":"Norge",
-                "img":"",
+                "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Slandemennesket2_tmb_1280.png",
                 "href":"https://program.stoppestedverden.no/slangemennesket/"
             }
         ]
