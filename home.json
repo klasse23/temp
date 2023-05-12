@@ -92,14 +92,14 @@
                 "name":"Fabelflakseren",
                 "country":"Norge",
                 "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Fabelflakseren_tmb_1280.png",
-                "href":"https://program.stoppestedverden.no/den-lille-store-reisen/"
+                "href":"https://program.stoppestedverden.no/fabelflakseren/"
             }
         ]
     },
     {
         "name":"Konsert",
         "color":"#4d4084",
-        "href":"https://program.stoppestedverden.no/konsert/",
+        "href":"https://program.stoppestedverden.no/konsert-2/",
         "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/MEXICO_Mariachi-Del-Sol_tmb_1280x844.png",
         "icon":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/konsert.svg"
     },
