@@ -101,13 +101,47 @@
         "color":"#4d4084",
         "href":"https://program.stoppestedverden.no/konsert-2/",
         "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/MEXICO_Mariachi-Del-Sol_tmb_1280x844.png",
-        "icon":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/konsert.svg"
+        "icon":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/konsert.svg",
+        "activities":[
+            {
+                "name":"Mariachi del sol",
+                "country":"Mexico",
+                "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/MEXICO_Mariachi-Del-Sol_tmb_1280x844.png",
+                "href":"https://program.stoppestedverden.no/mariachi-del-sol/"
+            },
+            {
+                "name":"Yagody",
+                "country":"Ukraina",
+                "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/UKRAINA_Yagody_foto-Sofia-Lupul_tmb_1280x844.png",
+                "href":"https://program.stoppestedverden.no/yagody/"
+            },
+            {
+                "name":"Male med jord og hjerte",
+                "country":"India",
+                "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/INDIA_Male-med-jord-og-hjerte_foto-EWA-Norge_tmb_1280x844.png",
+                "href":"https://program.stoppestedverden.no/male-med-jord-og-hjerte/"
+            }
+        ]
     },
     {
         "name":"Utstilling",
         "color":"#65b3cc",
         "href":"https://program.stoppestedverden.no/utstilling/",
         "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Vastavirthaan_tmb_1280.png",
-        "icon":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/utstilling.svg"
+        "icon":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/utstilling.svg",
+        "activities":[
+            {
+                "name":"Vastavirthaan",
+                "country":"Norge",
+                "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Vastavirthaan_tmb_1280.png",
+                "href":"https://program.stoppestedverden.no/vastavirthaan/"
+            },
+            {
+                "name":"Årets kunstprosjekt i regionens barnehager",
+                "country":"Norge",
+                "img":"",
+                "href":"https://program.stoppestedverden.no/arets-kunstprosjekt-i-regionens-barnehager/"
+            }
+        ]
     }
 ]
