@@ -99,49 +99,65 @@
                 "name":"African Nights",
                 "country":"Afrika",
                 "img":"",
-                "href":"https://program.stoppestedverden.no/african-nights/"
+                "href":"https://program.stoppestedverden.no/african-nights/",
+                "date":"01.01.2023",
+                "time":"13:30"
             },
             {
                 "name":"Søppelsafari",
                 "country":"Sirkula",
                 "img":"",
-                "href":"https://program.stoppestedverden.no/soppelsafari/"
+                "href":"https://program.stoppestedverden.no/soppelsafari/",
+                "date":"01.01.2023",
+                "time":"13:30"
             },
             {
                 "name":"Passtilas",
                 "country":"Fillipinene",
                 "img":"",
-                "href":"https://program.stoppestedverden.no/passtilas/"
+                "href":"https://program.stoppestedverden.no/passtilas/",
+                "date":"01.01.2023",
+                "time":"13:30"
             },
             {
                 "name":"Klong Yao",
                 "country":"Thailand",
                 "img":"",
-                "href":"https://program.stoppestedverden.no/klong-yao/"
+                "href":"https://program.stoppestedverden.no/klong-yao/",
+                "date":"01.01.2023",
+                "time":"13:30"
             },
             {
                 "name":"Italmalal",
                 "country":"Chile",
                 "img":"",
-                "href":"https://program.stoppestedverden.no/italmalal/"
+                "href":"https://program.stoppestedverden.no/italmalal/",
+                "date":"01.01.2023",
+                "time":"13:30"
             },
             {
                 "name":"Circus Raj",
                 "country":"India",
                 "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/INDIA_CircusRaj_tmb_1280.png",
-                "href":"https://program.stoppestedverden.no/circus-raj"
+                "href":"https://program.stoppestedverden.no/circus-raj",
+                "date":"01.01.2023",
+                "time":"13:30"
             },
             {
                 "name":"Cabezones",
                 "country":"Storbritannia",
                 "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/STORBRITANNIA_Cabez_tmb_1280.png",
-                "href":"https://program.stoppestedverden.no/cabezones/"
+                "href":"https://program.stoppestedverden.no/cabezones/",
+                "date":"01.01.2023",
+                "time":"13:30"
             },
             {
                 "name":"Slangemennesket",
                 "country":"Norge",
                 "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Slandemennesket2_tmb_1280.png",
-                "href":"https://program.stoppestedverden.no/slangemennesket/"
+                "href":"https://program.stoppestedverden.no/slangemennesket/",
+                "date":"01.01.2023",
+                "time":"13:30"
             }
         ]
     },
@@ -156,25 +172,33 @@
                 "name":"La Caixeta",
                 "country":"Spania",
                 "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/SPANIA_La-Caixeta_tmb_1280.png",
-                "href":"https://program.stoppestedverden.no/la-caixeta/"
+                "href":"https://program.stoppestedverden.no/la-caixeta/",
+                "date":"01.01.2023",
+                "time":"13:30"
             },
             {
                 "name":"Sulky M1",
                 "country":"Nederland",
                 "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NEDERLAND_Sulky_tmb_1280.png",
-                "href":"https://program.stoppestedverden.no/sulky-m1/"
+                "href":"https://program.stoppestedverden.no/sulky-m1/",
+                "date":"01.01.2023",
+                "time":"13:30"
             },
             {
                 "name":"Den lille store reisen",
                 "country":"Norge",
                 "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Den-Lille-Store-Reisen_tmb_1280.png",
-                "href":"https://program.stoppestedverden.no/den-lille-store-reisen/"
+                "href":"https://program.stoppestedverden.no/den-lille-store-reisen/",
+                "date":"01.01.2023",
+                "time":"13:30"
             },
             {
                 "name":"Fabelflakseren",
                 "country":"Norge",
                 "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Fabelflakseren_tmb_1280.png",
-                "href":"https://program.stoppestedverden.no/fabelflakseren/"
+                "href":"https://program.stoppestedverden.no/fabelflakseren/",
+                "date":"01.01.2023",
+                "time":"13:30"
             }
         ]
     },
@@ -189,19 +213,25 @@
                 "name":"Mariachi del sol",
                 "country":"Mexico",
                 "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/MEXICO_Mariachi-Del-Sol_tmb_1280x844.png",
-                "href":"https://program.stoppestedverden.no/mariachi-del-sol/"
+                "href":"https://program.stoppestedverden.no/mariachi-del-sol/",
+                "date":"01.01.2023",
+                "time":"13:30"
             },
             {
                 "name":"Yagody",
                 "country":"Ukraina",
                 "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/UKRAINA_Yagody_foto-Sofia-Lupul_tmb_1280x844.png",
-                "href":"https://program.stoppestedverden.no/yagody/"
+                "href":"https://program.stoppestedverden.no/yagody/",
+                "date":"01.01.2023",
+                "time":"13:30"
             },
             {
                 "name":"Male med jord og hjerte",
                 "country":"India",
                 "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/INDIA_Male-med-jord-og-hjerte_foto-EWA-Norge_tmb_1280x844.png",
-                "href":"https://program.stoppestedverden.no/male-med-jord-og-hjerte/"
+                "href":"https://program.stoppestedverden.no/male-med-jord-og-hjerte/",
+                "date":"01.01.2023",
+                "time":"13:30"
             }
         ]
     },
@@ -216,13 +246,17 @@
                 "name":"Vastavirthaan",
                 "country":"Norge",
                 "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Vastavirthaan_tmb_1280.png",
-                "href":"https://program.stoppestedverden.no/vastavirthaan/"
+                "href":"https://program.stoppestedverden.no/vastavirthaan/",
+                "date":"01.01.2023",
+                "time":"13:30"
             },
             {
                 "name":"Årets kunstprosjekt i regionens barnehager",
                 "country":"Norge",
                 "img":"",
-                "href":"https://program.stoppestedverden.no/arets-kunstprosjekt-i-regionens-barnehager/"
+                "href":"https://program.stoppestedverden.no/arets-kunstprosjekt-i-regionens-barnehager/",
+                "date":"01.01.2023",
+                "time":"13:30"
             }
         ]
     }
