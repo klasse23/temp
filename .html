@@ -7,18 +7,6 @@
 
         let allActivities = [];
 
-        let minMin;
-        let minHrs;
-        let minDay;
-        let minMnths;
-        let minYrs;
-
-        let maxMin;
-        let maxHrs;
-        let maxDay;
-        let maxMnths;
-        let maxYrs;
-
         start();
         async function start(){
             const response = await fetch("https://raw.githubusercontent.com/klasse23/temp/main/home.json");
@@ -28,33 +16,30 @@
                     allActivities.push(data[i].activities[x]);
                 }
             }
+            
+        }
+
+        async function commit(){
+            const min = toNum(document.getElementById("min-date").value.split("."), document.getElementById("min-time").value.split(":"));
+            const max = toNum(document.getElementById("max-date").value.split("."), document.getElementById("max-time").value.split(":"))
+
             for(let i = 0; i < allActivities.length; i++){
-                const min = allActivities[i].time.split(":")[1];
-                const hrs = allActivities[i].time.split(":")[0];
-                const day = allActivities[i].date.split(".")[0];
-                const mnth = allActivities[i].date.split(".")[1];
-                const yr = allActivities[i].date.split(".")[2];
-                if(yr >= minYrs && yr <= maxYrs){
-                    if(mnth >= minMnths && mnth <= maxMnths){
-                        if(day >= minDay && day <= maxDay){
-                            if(hrs >= minHrs && hrs <= maxHrs){
-                                if(min >= minMin && min <= maxMin){
-                                    console.log(allActivities[i]);
-                                }
-                            }
-                        }
-                    }
+                const crnt = toNum(allActivities[i].date.split("."), allActivities[i].time.split(":"));
+                if(crnt >= min && crnt <= max){
+                    console.log(allActivities[i]);
+                }else{
+                    console.log(allActivities[i]);
                 }
             }
         }
 
+        function toNum(date, time){
+            return parseInt(`${date[0]}${date[1]}${date[2]}${time[0]}${time[1]}`);
+        }
+
         document.addEventListener("keydown", (event) => {
             if(event.keyCode == 13){
-                minMin = document.getElementById("min-time").value.split(":")[1];
-                minHrs = document.getElementById("min-time").value.split(":")[0];
-                minDay = document.getElementById("min-date").value.split(".")[2];
-                minMnths = document.getElementById("min-date").value.split(".")[1];
-                minYrs = document.getElementById("min-date").value.split(".")[0];
+                commit();
             }
         });
         
