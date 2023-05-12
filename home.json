@@ -11,6 +11,60 @@
                 "country":"Egypt",
                 "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/EGYPT_Magedans_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/magedans/"
+            },
+            {
+                "name":"Folkedans",
+                "country":"Mexico",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/MEXICO_Folkedans_tmb_1280x844.png",
+                "href":"https://program.stoppestedverden.no/folkedans/"
+            },
+            {
+                "name":"BHARATANATYAM",
+                "country":"Sri Lanka",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/SRI-LANKA_Bharatanatyam_tmb_1280x844.png",
+                "href":"https://program.stoppestedverden.no/BHARATANATYAM/"
+            },
+            {
+                "name":"Akrobatikk",
+                "country":"Kenya",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/KENYA_Streetwise-Afrobatics-2_tmb_1280x844.png",
+                "href":"https://program.stoppestedverden.no/akrobatikk/"
+            },
+            {
+                "name":"Relampago drawing club",
+                "country":"Columbia/Mexico",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/COLOMBIA_Relampago_tmb_1280x844.png",
+                "href":"https://program.stoppestedverden.no/relampago-drawing-club/"
+            },
+            {
+                "name":"Komagbånd",
+                "country":"Kvenland",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/KVENLAND_Komagband_tmb_1280x844.png",
+                "href":"https://program.stoppestedverden.no/komagband/"
+            },
+            {
+                "name":"Torader",
+                "country":"Norge",
+                "img":"",
+                "href":"https://program.stoppestedverden.no/torader/"
+            },
+            {
+                "name":"Ukulele",
+                "country":"Hawaii",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/HAWAII_Ukulele_tmb_1280x844.png",
+                "href":"https://program.stoppestedverden.no/ukulele/"
+            },
+            {
+                "name":"Kaffekunst",
+                "country":"Brasil",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/BRASIL_Kaffekunst_tmb_1280x844.png",
+                "href":"https://program.stoppestedverden.no/kaffekunst/"
+            },
+            {
+                "name":"Takiya",
+                "country":"Kasakhstan",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/KASAKHSTAN_Takiya_tmb_1280x844.png",
+                "href":"https://program.stoppestedverden.no/takiya/"
             }
         ]
     },
