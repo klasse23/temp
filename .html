@@ -16,19 +16,19 @@
                     allActivities.push(data[i].activities[x]);
                 }
             }
-            
         }
 
         async function commit(){
             const min = toNum(document.getElementById("min-date").value.split("."), document.getElementById("min-time").value.split(":"));
-            const max = toNum(document.getElementById("max-date").value.split("."), document.getElementById("max-time").value.split(":"))
+            console.log(min);
+            const max = toNum(document.getElementById("max-date").value.split("."), document.getElementById("max-time").value.split(":"));
 
             for(let i = 0; i < allActivities.length; i++){
                 const crnt = toNum(allActivities[i].date.split("."), allActivities[i].time.split(":"));
                 if(crnt >= min && crnt <= max){
-                    console.log(allActivities[i]);
+                    // console.log(allActivities[i]);
                 }else{
-                    console.log(allActivities[i]);
+                    // console.log(allActivities[i]);
                 }
             }
         }
@@ -62,7 +62,6 @@
     <style>
 
     </style>
-
 
 
 </html>
