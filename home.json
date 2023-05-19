@@ -65,7 +65,7 @@
             {
                 "name":"Torader",
                 "country":"Norge",
-                "img":"",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Torader_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/torader/",
                 "date":"01.01.2023",
                 "time":"13:30"
@@ -97,7 +97,7 @@
         "icon":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/aktiviteter-1.svg",
         "activities":[
             {
-                "name":"Cabezones",
+                "name":"Cabezonas",
                 "country":"Storbritannia",
                 "img":"http://program.stoppestedverden.no/wp-content/uploads/2023/05/STORBRITANNIA_Cabez_tmb_1280.png",
                 "href":"https://program.stoppestedverden.no/cabezones/",
@@ -139,13 +139,13 @@
             {
                 "name":"Hjelp Mor Gaia",
                 "country":"Sirkula",
-                "img":"",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/GAIA_Hjelp_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/sirkus/",
                 "date":"01.01.2023",
                 "time":"13:30"
             },
             {
-                "name":"Passtilas",
+                "name":"Pastillas",
                 "country":"Fillipinene",
                 "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/FILIPPINENE_Pastillas_foto-Tuva-Kleven_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/passtilas/",
@@ -155,7 +155,7 @@
             {
                 "name":"Klong Yao",
                 "country":"Thailand",
-                "img":"",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/THAILAND_Klong-Yao_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/klong-yao/",
                 "date":"01.01.2023",
                 "time":"13:30"
