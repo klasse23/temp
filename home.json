@@ -39,7 +39,7 @@
                 "time":"13:30"
             },
             {
-                "name":"BHARATANATYAM",
+                "name":"Bharatanatyam",
                 "country":"Sri Lanka",
                 "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/SRI-LANKA_Bharatanatyam_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/BHARATANATYAM/",
@@ -48,7 +48,7 @@
             },
             {
                 "name":"Relampago drawing club",
-                "country":"Columbia/Mexico",
+                "country":"Columbia",
                 "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/COLOMBIA_Relampago_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/relampago-drawing-club/",
                 "date":"01.01.2023",
@@ -115,7 +115,7 @@
             {
                 "name":"Afro Beat",
                 "country":"Afrika",
-                "img":"",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/AFRIKA_Afro-Beat_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/afro-beat/",
                 "date":"01.01.2023",
                 "time":"13:30"
@@ -131,13 +131,13 @@
             {
                 "name":"Sirkus",
                 "country":"Brasil",
-                "img":"",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/BRASIL_Sirkus_tmb_1280x1280.png",
                 "href":"https://program.stoppestedverden.no/sirkus/",
                 "date":"01.01.2023",
                 "time":"13:30"
             },
             {
-                "name":"Gaia Hjelp Mamma Gaia",
+                "name":"Hjelp Mor Gaia",
                 "country":"Sirkula",
                 "img":"",
                 "href":"https://program.stoppestedverden.no/sirkus/",
@@ -147,7 +147,7 @@
             {
                 "name":"Passtilas",
                 "country":"Fillipinene",
-                "img":"",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/FILIPPINENE_Pastillas_foto-Tuva-Kleven_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/passtilas/",
                 "date":"01.01.2023",
                 "time":"13:30"
@@ -163,7 +163,7 @@
             {
                 "name":"Minitoget Knertitten",
                 "country":"Norge",
-                "img":"",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/Minitoget-Knertitten_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/minitoget-knertitten/",
                 "date":"01.01.2023",
                 "time":"13:30"
@@ -171,7 +171,7 @@
             {
                 "name":"Tertittoget",
                 "country":"Norge",
-                "img":"",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/Tertittoget_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/minitoget-knertitten/",
                 "date":"01.01.2023",
                 "time":"13:30"
@@ -253,7 +253,7 @@
             {
                 "name":"Swing'it",
                 "country":"Norge",
-                "img":"",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/NORGE_Swing-it_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/swingit/",
                 "date":"01.01.2023",
                 "time":"13:30"
