@@ -48,7 +48,7 @@
             },
             {
                 "name":"Relampago drawing club",
-                "country":"Columbia",
+                "country":"Colombia",
                 "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/COLOMBIA_Relampago_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/relampago-drawing-club/",
                 "date":"01.01.2023",
@@ -157,6 +157,14 @@
                 "country":"Thailand",
                 "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/THAILAND_Klong-Yao_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/klong-yao/",
+                "date":"01.01.2023",
+                "time":"13:30"
+            },
+            {
+                "name":"Judo",
+                "country":"Japan",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/JAPAN_Judo_MarkusSogard_tmb_1280x844.png",
+                "href":"https://program.stoppestedverden.no/judo/",
                 "date":"01.01.2023",
                 "time":"13:30"
             },
