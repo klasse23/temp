@@ -145,18 +145,18 @@
                 "time":"13:30"
             },
             {
-                "name":"Pastillas",
-                "country":"Fillipinene",
-                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/FILIPPINENE_Pastillas_foto-Tuva-Kleven_tmb_1280x844.png",
-                "href":"https://program.stoppestedverden.no/passtilas/",
+                "name":"Soskei",
+                "country":"Kurdistan",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/KURDISTAN_Soskei_1280x844.jpg",
+                "href":"https://program.stoppestedverden.no/soskei/",
                 "date":"01.01.2023",
                 "time":"13:30"
             },
             {
-                "name":"Klong Yao",
+                "name":"Phi ta khon",
                 "country":"Thailand",
                 "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/THAILAND_Klong-Yao_tmb_1280x844.png",
-                "href":"https://program.stoppestedverden.no/klong-yao/",
+                "href":"https://program.stoppestedverden.no/phi-ta-khon/",
                 "date":"01.01.2023",
                 "time":"13:30"
             },
@@ -180,7 +180,7 @@
                 "name":"Tertittoget",
                 "country":"Norge",
                 "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/Tertittoget_tmb_1280x844.png",
-                "href":"https://program.stoppestedverden.no/minitoget-knertitten/",
+                "href":"https://program.stoppestedverden.no/tertittoget/",
                 "date":"01.01.2023",
                 "time":"13:30"
             }
