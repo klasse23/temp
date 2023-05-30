@@ -88,10 +88,10 @@
                 "time":"13:30"
             },
             {
-                "name":"Italmalal",
+                "name":"Itamalal",
                 "country":"Chile",
                 "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/CHILE_Itamalal_1280x844.jpg",
-                "href":"https://program.stoppestedverden.no/italmalal/",
+                "href":"https://program.stoppestedverden.no/itamalal/",
                 "date":"01.01.2023",
                 "time":"13:30"
             }
@@ -161,10 +161,50 @@
                 "time":"13:30"
             },
             {
+                "name":"Parol",
+                "country":"Filippinene",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/FILIPPINENE_Pastillas_foto-Tuva-Kleven_tmb_1280x844.png",
+                "href":"https://program.stoppestedverden.no/parol/",
+                "date":"01.01.2023",
+                "time":"13:30"
+            },
+            {
+                "name":"Dabke dans",
+                "country":"Syria",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/SYRIA_Dabke_1280x844.jpg",
+                "href":"https://program.stoppestedverden.no/dabke-dans/",
+                "date":"01.01.2023",
+                "time":"13:30"
+            },
+            {
+                "name":"Spå",
+                "country":"Albania",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/Albania_1280x844.jpg",
+                "href":"https://program.stoppestedverden.no/albania/",
+                "date":"01.01.2023",
+                "time":"13:30"
+            },
+            {
+                "name":"Du store alpakka",
+                "country":"Chile",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/Alpakka_1280x844.jpg",
+                "href":"https://program.stoppestedverden.no/du-store-alpakka/",
+                "date":"01.01.2023",
+                "time":"13:30"
+            },
+            {
                 "name":"Judo",
                 "country":"Japan",
                 "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/JAPAN_Judo_MarkusSogard_tmb_1280x844.png",
                 "href":"https://program.stoppestedverden.no/judo/",
+                "date":"01.01.2023",
+                "time":"13:30"
+            },
+            {
+                "name":"Vår kultur",
+                "country":"Ukraina",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/UKRAINA_1280x844.jpg",
+                "href":"https://program.stoppestedverden.no/ukraina/",
                 "date":"01.01.2023",
                 "time":"13:30"
             },
@@ -296,6 +336,22 @@
                 "country":"Norge",
                 "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/Kunstprosjekt_1280x844.jpg",
                 "href":"https://program.stoppestedverden.no/arets-kunstprosjekt-i-regionens-barnehager/",
+                "date":"01.01.2023",
+                "time":"13:30"
+            },
+            {
+                "name":"Kulturskolene",
+                "country":"Norge",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/Kulturskolene_1280x844.jpg",
+                "href":"https://program.stoppestedverden.no/kulturskolene/",
+                "date":"01.01.2023",
+                "time":"13:30"
+            },
+            {
+                "name":"Pop art",
+                "country":"Norge",
+                "img":"https://program.stoppestedverden.no/wp-content/uploads/2023/05/POP-ART_1280x844.jpg",
+                "href":"https://program.stoppestedverden.no/pop-art/",
                 "date":"01.01.2023",
                 "time":"13:30"
             }
